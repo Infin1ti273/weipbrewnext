@@ -1,12 +1,15 @@
 {
   "name": "weipbrewnext",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.4",
+  "description": "https://github.com/Infin1ti273/weipbrewnext",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "2.1.2"
+  }
 }
