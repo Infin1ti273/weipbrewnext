@@ -1,7 +1,7 @@
 {
   "name": "weipbrewnext",
-  "version": "1.0.4",
-  "description": "https://github.com/Infin1ti273/weipbrewnext",
+  "version": "1.0.5",
+  "repository": "https://github.com/Infin1ti273/weipbrewnext",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
